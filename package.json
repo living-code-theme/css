@@ -1,0 +1,32 @@
+{
+  "name": "@living-code/css",
+  "version": "0.1.1",
+  "description": "Living Code for CSS variables. Repository-owned theme files, installation instructions and four color flavors.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Living Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/living-code-theme/css.git"
+  },
+  "homepage": "https://github.com/living-code-theme/css",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "living-code.css"
+  ],
+  "exports": {
+    "./living-code.css": "./living-code.css"
+  },
+  "sideEffects": true,
+  "packageManager": "pnpm@12.9.0",
+  "livingCode": {
+    "kind": "npm"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs",
+    "package": "node scripts/package.mjs"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "CSS variables",
+  "slug": "css",
+  "group": "Web & code",
+  "emoji": "🎨",
+  "description": "Living Code for CSS variables. Repository-owned theme files, installation instructions and four color flavors.",
+  "homepage": "https://developer.mozilla.org/docs/Web/CSS/color_value/oklch",
+  "quick": "Install @living-code/css",
+  "aliases": [
+    "css"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "files": [
+    "living-code.css"
+  ],
+  "images": []
+}
