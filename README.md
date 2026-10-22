@@ -5,10 +5,6 @@
 
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
 
-## Previews
-
-Real application screenshots have not been captured yet.
-
 ## Installation
 
 ```sh
@@ -32,12 +28,10 @@ Use palette names (`var(--lc-teal)`) or semantic roles (`var(--lc-keyword)`, `va
 
 ## Flavors
 
-Expand a flavor for its full-size preview and activation instructions.
+Expand a flavor for its activation instructions.
 
 <details data-lc-flavor="night">
 <summary><strong>Night</strong> · Dark · full palette</summary>
-
-A real application capture is not available yet.
 
 ```html
 <html data-theme="living-code-night">
@@ -48,8 +42,6 @@ A real application capture is not available yet.
 <details data-lc-flavor="frost">
 <summary><strong>Frost</strong> · Dark · softer chroma</summary>
 
-A real application capture is not available yet.
-
 ```html
 <html data-theme="living-code-frost">
 ```
@@ -59,8 +51,6 @@ A real application capture is not available yet.
 <details data-lc-flavor="paper">
 <summary><strong>Paper</strong> · Light · near-white slate</summary>
 
-A real application capture is not available yet.
-
 ```html
 <html data-theme="living-code-paper">
 ```
@@ -69,8 +59,6 @@ A real application capture is not available yet.
 
 <details data-lc-flavor="signal">
 <summary><strong>Signal</strong> · Dark · teal accent</summary>
-
-A real application capture is not available yet.
 
 ```html
 <html data-theme="living-code-signal">
